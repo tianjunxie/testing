@@ -1,5 +1,4 @@
-# testing
-sds
+Should be working now
 
 Link to workshop website:
 https://github.com/ashwinsrnth/2015-09-07-clemson
